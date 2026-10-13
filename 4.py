@@ -1,0 +1,8 @@
+s=input("Счёт команд: ")
+t1, t2 = map(int, s.split(':'))
+if t1>t2:
+    print("1")
+elif t1<t2:
+    print("2")
+elif t1==t2:
+    print("0")

@@ -125,6 +125,6 @@ print(int(h),":",int(m))"""
 """x=int(input())
 y=int(input())
 c=int(input())
-s=x*y
+s=x*y     
 n=c//s +1
 print("Страница:",n)"""
