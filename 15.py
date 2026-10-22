@@ -4,3 +4,5 @@ dist2 = n - dist1
 r = min(dist1, dist2) - 1
 
 print(r)
+
+

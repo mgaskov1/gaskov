@@ -9,3 +9,4 @@ if sickles > 0:
     print(sickles,"сиклей")
 if knuts > 0:
     print(knuts,"кнат(ов)")
+

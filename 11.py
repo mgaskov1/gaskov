@@ -37,3 +37,4 @@ t.penup()
 t.goto(px, py)
 t.dot(10, point_color)
 screen.exitonclick()
+

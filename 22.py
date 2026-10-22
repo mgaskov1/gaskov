@@ -5,3 +5,4 @@ if 2>math.ceil(2*n/k):
     print(2*m)
 else:
     print(m*(math.ceil(2*n/k)))
+

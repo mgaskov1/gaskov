@@ -15,3 +15,4 @@ if b1 <= hole1 and b2 <= hole2:
     print("да")
 else:
     print("нет")
+
